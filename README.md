@@ -1,4 +1,4 @@
-# customer-segmentation-rfm-kmeans
+# CUSTOMER SEGMENTATION: RFM-BASED USING K-MEANS AND PCA 
 Customer segmentation using RFM analysis and K-Means clustering on an e-commerce retail dataset.
 
 ## Dataset
